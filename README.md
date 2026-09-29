@@ -6,4 +6,4 @@
 
 - My repo contains a handful of test projects, primarily from my work in student societies or test software I've developed during internships.
 
-- I have experience in C/C#, Python, PowerShell and Azure Functions. 
+- I have varying experience in C/C#, Python, PowerShell, Azure Functions, JSON and HTML. 
